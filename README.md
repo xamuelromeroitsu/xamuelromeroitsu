@@ -30,7 +30,6 @@
 - 🤔 **Busco ayuda con:** Técnicas avanzadas de optimización de contenedores y despliegues modulares complejos.
 - 💬 **Pregúntame sobre:** Lógica en Python, layouts con CSS/React o configuración básica de enrutamiento en redes.
 - 📫 **Cómo contactarme:** Puedes revisar los enlaces de mis proyectos activos aquí en GitHub o escribirme directamente a mi correo institucional.
-- 😄 **Pronombres:** Él / Him.
 
 ---
 
