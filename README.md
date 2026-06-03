@@ -37,35 +37,37 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Ecosistema Técnico & Stack Tecnológico
+
+
 
 <h4 align="left">🌐 Desarrollo Frontend & Modularización:</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/></a>
+  <a href="https://es.react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
 </p>
 
 <h4 align="left">🐍 Lógica de Programación & Backend:</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 </p>
 
 <h4 align="left">🗄️ Bases de Datos & Gestión:</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/></a>
+  <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/></a>
 </p>
 
-<h4 align="left">📦 Entornos, Contenedores & Redes:</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman"/>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-005A70?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-</p>
+### 🗄️ Backend, Datos & Contenedores
+- **Bases de Datos:** SQL (MariaDB, PostgreSQL), phpMyAdmin.
+- **Entornos & Despliegue:** Podman, Docker, GitHub Pages, CI/CD.
+
+### 🔌 Redes & Infraestructura Básica
+- **Sistemas & Protocolos:** Modelos OSI/TCP-IP (IPv4/IPv6), Hardware Cisco (Packet Tracer).
 
 ---
 
