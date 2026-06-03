@@ -7,7 +7,7 @@
   <br />
 
   <!-- Subtítulo o Rol -->
-  <h3>👨‍💻 Estudiante de Telecomunicaciones y Programación Web</h3>
+  <h3>👨‍💻 Estudiante de Programación, Comunicación y Electrónica</h3>
 
   <p align="center">
     <!-- Badges de Redes o Estado -->
@@ -18,18 +18,22 @@
 
 ---
 
+<div align="center">
+
 ### 🚀 Sobre Mí
 
-¡Hola! Soy un apasionado por la tecnología, la electrónica y el desarrollo de software modular. Actualmente me encuentro expandiendo mis habilidades técnicas combinando la programación lógica con la infraestructura de redes y el diseño de interfaces modernas y optimizadas.
+¡Hola! Soy un creador de soluciones tecnológicas que une software, electrónica y comunicación para generar proyectos funcionales, sólidos y con diseño moderno. Mi objetivo es entregar experiencias digitales limpias, eficientes y escalables.
 
 - 🎓 Estudiante en el **Instituto Sitio Uno (ITSU)**.
-- 🛠️ Enfocado en la arquitectura de software limpia, el paradigma de Programación Orientada a Objetos (POO) y soluciones modulares eficaces.
-- 💻 Fanático de las interfaces con estética moderna, temas oscuros y contrastes vibrantes.
+- 🛠️ Desarrollo con principios de arquitectura limpia y patrones modulares para entregar código fácil de mantener.
+- 💻 Diseño interfaces intuitivas, experiencia de usuario clara y soluciones centradas en rendimiento.
 
 #### 🔍 Detalles de Contacto y Colaboración:
-- 🤔 **Busco ayuda con:** Técnicas avanzadas de optimización de contenedores y despliegues modulares complejos.
-- 💬 **Pregúntame sobre:** Lógica en Python, layouts con CSS/React o configuración básica de enrutamiento en redes.
-- 📫 **Cómo contactarme:** Puedes revisar los enlaces de mis proyectos activos aquí en GitHub o escribirme directamente a mi correo institucional.
+- 🤔 **Busco ayuda con:** optimización de despliegues, arquitectura de microservicios y gestión de proyectos tecnológicos.
+- 💬 **Pregúntame sobre:** Python, frontend con React/CSS, redes y automatización básica de infraestructura.
+- 📫 **Cómo contactarme:** Revisa mis repositorios activos en GitHub o escríbeme a mi correo institucional.
+
+</div>
 
 ---
 
