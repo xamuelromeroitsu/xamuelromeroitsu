@@ -59,13 +59,6 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 </p>
 
-<h4 align="left">🗄️ Bases de Datos & Gestión:</h4>
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/></a>
-  <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/></a>
-</p>
-
 <h4 align="left">📦 Contenedores & Despliegue:</h4>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
@@ -74,11 +67,21 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Métricas de mi actividad en GitHub
+
+Un vistazo a mi contribución pública, repositorios activos y lenguajes preferidos. Estas métricas reflejan mi enfoque en la calidad del código y la constancia en el desarrollo.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xamuelromeroitsu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Xamuel" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamuelromeroitsu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="180px" />
+  <a href="https://github.com/xamuelromeroitsu" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=xamuelromeroitsu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Xamuel" height="180px" /></a>
+  <a href="https://github.com/xamuelromeroitsu" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xamuelromeroitsu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="180px" /></a>
+</p>
+
+<p align="center">
+  <strong>Resumen alternativo:</strong> visita <a href="https://github.com/xamuelromeroitsu" target="_blank" rel="noreferrer">github.com/xamuelromeroitsu</a> para ver mi actividad.
+</p>
+
+<p align="center">
+  <em>Lenguajes clave:</em> JavaScript, Python, HTML, CSS.
 </p>
 
 ---
