@@ -24,14 +24,18 @@
 
 ¡Hola! Soy un creador de soluciones tecnológicas que une software, electrónica y comunicación para generar proyectos funcionales, sólidos y con diseño moderno. Mi objetivo es entregar experiencias digitales limpias, eficientes y escalables.
 
-- 🎓 Estudiante en el **Instituto Sitio Uno (ITSU)**.
-- 🛠️ Desarrollo con principios de arquitectura limpia y patrones modulares para entregar código fácil de mantener.
-- 💻 Diseño interfaces intuitivas, experiencia de usuario clara y soluciones centradas en rendimiento.
+ 🎓 Estudiante en el **Instituto Sitio Uno (ITSU)**.
+ 
+ 🛠️ Desarrollo con principios de arquitectura limpia y patrones modulares para entregar código fácil de mantener.
+ 
+ 💻 Diseño interfaces intuitivas, experiencia de usuario clara y soluciones centradas en rendimiento.
 
 #### 🔍 Detalles de Contacto y Colaboración:
-- 🤔 **Busco ayuda con:** optimización de despliegues, arquitectura de microservicios y gestión de proyectos tecnológicos.
-- 💬 **Pregúntame sobre:** Python, frontend con React/CSS, redes y automatización básica de infraestructura.
-- 📫 **Cómo contactarme:** Revisa mis repositorios activos en GitHub o escríbeme a mi correo institucional.
+ 🤔 **Busco ayuda con:** optimización de despliegues, arquitectura de microservicios y gestión de proyectos tecnológicos.
+
+ 💬 **Pregúntame sobre:** Python, frontend con React/CSS, redes y automatización básica de infraestructura.
+
+ 📫 **Cómo contactarme:** Revisa mis repositorios activos en GitHub o escríbeme a mi correo institucional.
 
 </div>
 
@@ -62,12 +66,11 @@
   <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/></a>
 </p>
 
-### 🗄️ Backend, Datos & Contenedores
-- **Bases de Datos:** SQL (MariaDB, PostgreSQL), phpMyAdmin.
-- **Entornos & Despliegue:** Podman, Docker, GitHub Pages, CI/CD.
-
-### 🔌 Redes & Infraestructura Básica
-- **Sistemas & Protocolos:** Modelos OSI/TCP-IP (IPv4/IPv6), Hardware Cisco (Packet Tracer).
+<h4 align="left">📦 Contenedores & Despliegue:</h4>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://podman.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman"/></a>
+</p>
 
 ---
 
