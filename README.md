@@ -11,11 +11,8 @@
 
   <p align="center">
     <!-- Badges de Redes o Estado -->
-    <a href="https://www.google.com/maps/place/Venezuela" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/📍_Ubicación-Venezuela-7b2cbf?style=flat&logo=googlemaps&logoColor=white" alt="Ubicación" /></a>
-    <a href="https://itsu.education/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Estudiante-ITSU-00ff66?style=flat&logo=education&logoColor=white" alt="Instituto" /></a>
-    <a href="https://github.com/xamuelromeroitsu" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Colaboración-Activa-ff69b4?style=flat&logo=github&logoColor=white" alt="Colaboración" /></a>
-    <a href="https://linkedin.com/in/XAMUEL-ROMERO" target="_blank" rel="noreferrer">[![LinkedIn](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LinkedIn&query=%24&url=https%3A%2F%2Fapi.shields.io%2Fbadge%2Fv1&color=label&labelColor=0052D4-00ff66&logo=linkedin&logoColor=white)](https://linkedin.com/in/XAMUEL-ROMERO)</a>
-    <a href="https://xamuelromeroitsu.github.io/Portfolio/" target="_blank" rel="noreferrer">[![Portafolio](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Portafolio&query=%24&url=https%3A%2F%2Fapi.shields.io%2Fbadge%2Fv1&color=label&labelColor=0052D4-00ff66&logo=react&logoColor=white)](https://xamuelromeroitsu.github.io/Portfolio/)</a>
+    <a href="https://linkedin.com/in/XAMUEL-ROMERO" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LinkedIn&query=%24&url=https%3A%2F%2Fapi.shields.io%2Fbadge%2Fv1&color=label&labelColor=0052D4-00ff66&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://itsu.education/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Estudiante-ITSU-00ff66?style=for-the-badge&logo=education&logoColor=white&labelColor=0052D4-00ff66" alt="ITSU" /></a>
   </p>
 </div>
 
