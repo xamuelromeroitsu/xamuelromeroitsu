@@ -11,8 +11,9 @@
 
   <p align="center">
     <!-- Badges de Redes o Estado -->
-    <img src="https://img.shields.io/badge/📍_Ubicación-Venezuela-7b2cbf?style=flat" alt="Ubicación" />
-    <img src="https://img.shields.io/badge/Status-Estudiando_en_ITSU-00ff66?style=flat" alt="Instituto" />
+    <a href="https://www.google.com/maps/place/Venezuela" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/📍_Ubicación-Venezuela-7b2cbf?style=flat&logo=googlemaps&logoColor=white" alt="Ubicación" /></a>
+    <a href="https://www.itsu.edu.ve/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Estudiante-ITSU-00ff66?style=flat&logo=education&logoColor=white" alt="Instituto" /></a>
+    <a href="https://github.com/xamuelromeroitsu" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Colaboraci%C3%B3n-Activa-ff69b4?style=flat&logo=github&logoColor=white" alt="Colaboración" /></a>
   </p>
 </div>
 
@@ -26,16 +27,22 @@
 
  🎓 Estudiante en el **Instituto Sitio Uno (ITSU)**.
  
- 🛠️ Desarrollo con principios de arquitectura limpia y patrones modulares para entregar código fácil de mantener.
+
+
+ 🛠️ Desarrollo con principios de arquitectura limpia y patrones modulares para entregar 
+  código fácil de mantener.
  
  💻 Diseño interfaces intuitivas, experiencia de usuario clara y soluciones centradas en rendimiento.
 
 #### 🔍 Detalles de Contacto y Colaboración:
- 🤔 **Busco ayuda con:** optimización de despliegues, arquitectura de microservicios y gestión de proyectos tecnológicos.
+ 🤔 **Busco ayuda con:** 
+ optimización de despliegues, arquitectura de microservicios y gestión de proyectos  tecnológicos.
 
- 💬 **Pregúntame sobre:** Python, frontend con React/CSS, redes y automatización básica de infraestructura.
+ 💬 **Pregúntame sobre:** 
+ Python, frontend con React/CSS, redes y automatización básica de infraestructura.
 
- 📫 **Cómo contactarme:** Revisa mis repositorios activos en GitHub o escríbeme a mi correo institucional.
+ 📫 **Cómo contactarme:** 
+ Revisa mis repositorios activos en GitHub o escríbeme a mi correo institucional.
 
 </div>
 
