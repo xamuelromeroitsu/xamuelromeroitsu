@@ -1,12 +1,7 @@
-## Hi there 👋
-
 <div align="center">
-  <!-- Banner con estilo tecnológico oscuro/neón -->
-  <img src="https://capsule-render.vercel.app/main?type=soft&color=0d1117&height=200&section=header&text=Xamuel%20Romero&fontSize=70&fontColor=00ff66&animation=twinkling" width="100%" alt="Banner Xamuel" />
 
-  <br />
-</div>
-  <!-- Subtítulo o Rol -->
+# ¡Hola! 👋 Soy Xamuel Romero
+
 ### 👨‍💻 Estudiante de Telecomunicaciones, Electrónica y Programación Web
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xamuel-romero-2a73973b6)
@@ -14,9 +9,7 @@
 
 ---
 
----
-
-<div align="center">
+</div>
 
 ### 🚀 Sobre Mí
 
