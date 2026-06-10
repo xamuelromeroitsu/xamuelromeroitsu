@@ -1,5 +1,7 @@
 <div align="center">
 
+ <img src="./banner.png" alt="Banner de Xamuel Romero" width="100%">
+ 
 # ¡Hola! 👋 Soy Xamuel Romero
 
 ### 👨‍💻 Estudiante de Telecomunicaciones, Electrónica y Programación Web
