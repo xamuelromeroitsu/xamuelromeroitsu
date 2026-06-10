@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="./banner.png" alt="Banner de Xamuel Romero" width="100%">
+ <img src="./banner.png" alt="Banner de Xamuel Romero" width="50%">
  
 # ¡Hola! 👋 Soy Xamuel Romero
 
