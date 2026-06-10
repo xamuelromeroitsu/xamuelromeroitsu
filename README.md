@@ -11,7 +11,9 @@
 
   <p align="center">
     <!-- Badges de Redes o Estado -->
-    <a href="https://linkedin.com/in/XAMUEL-ROMERO" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LinkedIn&query=%24&url=https%3A%2F%2Fapi.shields.io%2Fbadge%2Fv1&color=label&labelColor=0052D4-00ff66&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="www.linkedin.com/in/
+xamuel-romero-2a73973b6
+" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LinkedIn&query=%24&url=https%3A%2F%2Fapi.shields.io%2Fbadge%2Fv1&color=label&labelColor=0052D4-00ff66&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://itsu.education/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=ITSU&query=%24&url=https%3A%2F%2Fapi.shields.io%2Fbadge%2Fv1&color=label&labelColor=0052D4-00ff66&logo=education&logoColor=white" alt="ITSU" /></a>
   </p>
 </div>
