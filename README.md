@@ -5,18 +5,14 @@
   <img src="https://capsule-render.vercel.app/main?type=soft&color=0d1117&height=200&section=header&text=Xamuel%20Romero&fontSize=70&fontColor=00ff66&animation=twinkling" width="100%" alt="Banner Xamuel" />
 
   <br />
-
-  <!-- Subtítulo o Rol -->
-  <h3>👨‍💻 Estudiante de Programación, Comunicación y Electrónica</h3>
-
-  <p align="center">
-    <!-- Badges de Redes o Estado -->
-    <a href="www.linkedin.com/in/
-xamuel-romero-2a73973b6
-" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LinkedIn&query=%24&url=https%3A%2F%2Fapi.shields.io%2Fbadge%2Fv1&color=label&labelColor=0052D4-00ff66&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://itsu.education/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=ITSU&query=%24&url=https%3A%2F%2Fapi.shields.io%2Fbadge%2Fv1&color=label&labelColor=0052D4-00ff66&logo=education&logoColor=white" alt="ITSU" /></a>
-  </p>
 </div>
+  <!-- Subtítulo o Rol -->
+### 👨‍💻 Estudiante de Telecomunicaciones, Electrónica y Programación Web
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xamuel-romero-2a73973b6)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romeroxamuel/)
+
+---
 
 ---
 
