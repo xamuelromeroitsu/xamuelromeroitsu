@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Estudiante de Telecomunicaciones, Electrónica y Programación Web
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xamuel-romero-2a73973b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xamuel-romero-586679348)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romeroxamuel/)
 
 ---
